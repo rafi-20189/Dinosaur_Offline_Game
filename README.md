@@ -27,3 +27,17 @@ the trex runner game extracted from chrome offline err page.
 
 ```
 
+
+### Step 2.
+- Add the code in your activity java file
+```bash
+
+ 
+       WebView gameView = findViewById(R.id.gameView);
+
+        gameView.getSettings().setJavaScriptEnabled(true);
+        gameView.loadUrl("file:///android_asset/index.html");
+        gameView.requestFocus(View.FOCUS_DOWN);
+
+```
+
