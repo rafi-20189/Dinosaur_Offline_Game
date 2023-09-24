@@ -1,4 +1,4 @@
-## t-rex-runner
+## dinosaur game by Rayhan Rafi
 
 the trex runner game extracted from chrome offline err page.
 
