@@ -10,7 +10,8 @@ the trex runner game extracted from chrome offline err page.
 ### Step 1.
 - First download the file and past it inside app >> assets.
 
-### [Download File]([https://www.youtube.com/watch?v=](https://github.com/rafi-20189/Dinosaur_Offline_Game.git)).
+### [Download File »]([https://www.youtube.com/watch?v=](https://github.com/rafi-20189/Dinosaur_Offline_Game.git)).
+### 
 
 
 ### Step 2.
