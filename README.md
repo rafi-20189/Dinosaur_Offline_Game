@@ -9,16 +9,21 @@ the trex runner game extracted from chrome offline err page.
 
 ### Step 1.
 - First download the file and past it inside app >> assets.
+```bash
 
-### [Download File »]([https://www.youtube.com/watch?v=](https://github.com/rafi-20189/Dinosaur_Offline_Game.git)).
-### 
+
+```
 
 
 ### Step 2.
-- First download the file and past it inside app >> assets.
+- Add the code in your activity
 ```bash
 
-  [Download](https://github.com/rafi-20189/Dinosaur_Offline_Game.git).
+  <WebView
+        android:id="@+id/gameView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
 
 ```
 
