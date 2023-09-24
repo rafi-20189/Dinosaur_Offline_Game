@@ -1,4 +1,4 @@
-## offline dinosaur game in android app Rayhan Rafi
+## offline dinosaur game in android app (Rayhan Rafi)
 
 the trex runner game extracted from chrome offline err page.
 
