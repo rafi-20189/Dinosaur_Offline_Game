@@ -28,7 +28,7 @@ the trex runner game extracted from chrome offline err page.
 ```
 
 
-### Step 2.
+### Step 3.
 - Add the code in your activity java file
 ```bash
 
