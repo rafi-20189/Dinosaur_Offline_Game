@@ -8,7 +8,7 @@ the trex runner game extracted from chrome offline err page.
 ![chrome offline game cast](assets/screenshot.gif)
 
 ### Step 1.
-- First download the Source file and past it inside app >> assets.
+- First download the Source file and paste it inside app >> assets.
 ```bash
 
 
